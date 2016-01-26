@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=0.10.6
+Type=Application
+Name=Visual Studio Code
+Icon=/opt/VSCode-linux-x64/resources/app/resources/linux/vscode.png
+Exec=vscode %F
+Comment=Visual Studio Code IDE
+Categories=TextEditor;Development;WebDevelopment;IDE;
+Terminal=false
+StartupWMClass=code
+StartupNotify=true
